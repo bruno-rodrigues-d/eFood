@@ -1,7 +1,9 @@
 import './index.css';
 
+import Layout from './components/Layout/Layout';
+
 function App() {
-  return <h1>Teste não nó</h1>
+  return <Layout/>;
 }
 
 export default App;
